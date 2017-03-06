@@ -1,3 +1,7 @@
+//http://bobao.360.cn/learning/detail/3466.html  【技术分享】通过DNS传输后门来绕过杀软
+
+
+
 [![Stage](https://img.shields.io/badge/Release-STABLE-brightgreen.svg)]()
 
 # NativePayload_DNS
